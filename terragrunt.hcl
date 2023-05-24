@@ -1,5 +1,5 @@
 terraform {
-  source = ""
+  source = "git::github.com/Zorochoris/homework_vinted"
 }
 
 inputs = {
